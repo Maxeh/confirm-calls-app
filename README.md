@@ -4,4 +4,4 @@ This app intercepts outgoing calls and cancels them. After the user has checked 
 
 ## Information
 
-The app starts a service that is active all the time and listens for outgoing calls. On some devices, the outgoing call might not be intercepted fast enough, depending on the phones hardware resources. There is no guarantee that all phone calls can be blocked by the app.
+The app starts a service that is active all the time and listens for outgoing calls. On some devices, the outgoing call might not be intercepted fast enough, depending on the phones hardware resources. There is no guarantee that all outgoing phone calls can be intercepted by the app.
